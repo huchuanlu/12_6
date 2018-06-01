@@ -1,0 +1,1 @@
+Thanks to Jongwoo Lim and David Ross. The affine transformation part is derived from their code for "Incremental Learning for Robust Visual Tracking" (IJCV 2008) by David Ross, Jongwoo Lim, Ruei-Sung Lin and Ming-Hsuan Yang.
